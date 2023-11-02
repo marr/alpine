@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'David Marr',
+    description: 'Principal Software Engineer',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
@@ -26,12 +26,12 @@ export default defineAppConfig({
       message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: 'nuxtlabs',
-      instagram: 'atinuxt',
+      twitter: 'dmarr',
+      instagram: 'davemarr',
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
-        href: 'https://www.linkedin.com/company/nuxtlabs'
+        href: 'https://www.linkedin.com/in/davidmarr'
       }
     },
     form: {
